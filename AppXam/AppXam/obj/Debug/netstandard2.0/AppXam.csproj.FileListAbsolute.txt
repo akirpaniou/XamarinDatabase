@@ -1,0 +1,16 @@
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\bin\Debug\netstandard2.0\AppXam.deps.json
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\bin\Debug\netstandard2.0\AppXam.dll
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\bin\Debug\netstandard2.0\ref\AppXam.dll
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\bin\Debug\netstandard2.0\AppXam.pdb
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.csproj.AssemblyReference.cache
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.AssemblyInfoInputs.cache
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.AssemblyInfo.cs
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.csproj.CoreCompileInputs.cache
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\XamlC.stamp
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.dll
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\ref\AppXam.dll
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\AppXam.pdb
+D:\VisualStudioFiles\AppXam\AppXam\AppXam\obj\Debug\netstandard2.0\CoursePage.xaml.g.cs
